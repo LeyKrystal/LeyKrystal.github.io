@@ -77,16 +77,4 @@ h4{
     letter-spacing: 2px;
     font-size: 20px;
 }
-.newlatter form{
-    width: 380px;
-    max-width: 100%;
-    position: relative;
-}
-.newlatter form input:first-child{
-    display: inline-block;
-    width: 100%;
-    padding: 14px 130px 14px 15px;
-    border: 2px solid #738041;
-    outline: none;
-    border-radius: 30px;
-}
+

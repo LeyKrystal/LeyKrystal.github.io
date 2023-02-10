@@ -86,4 +86,18 @@ h4{
     display: inline-block;
     width: 100%;
     padding: 14px 130px 14px 15px;
+    border: 2px solid #738041;
+    outline: none;
+    border-radius: 30px;
+}
+.newlatter form input:last-child{
+    position: absolute;
+    display: inline-block;
+    outline: none;
+    border: none;
+    padding: 10px 30px;
+    border-radius: 30px;
+    background-color: #738041;
+    color: white;
+    box-shadow: 0px 0px 5px #000, 0px 0px 15px #858585;
 }

@@ -53,6 +53,6 @@ nav ul li a:hover{
     border-radius: 30px;
     transition: transform .4s;
 }
-.btn{
+.btn:hover{
     transform: scale(1.2)
 }

@@ -82,3 +82,8 @@ h4{
     max-width: 100%;
     position: relative;
 }
+.newlatter form input:first-child{
+    display: inline-block;
+    width: 100%;
+    padding: 14px 130px 14px 15px;
+}

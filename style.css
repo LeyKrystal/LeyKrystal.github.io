@@ -39,3 +39,7 @@ nav ul li a{
     font-weight: bold;
     text-transform: capitalize;
 }
+nav ul li a:hover{
+    color:#738041;
+    transition: .4s;
+}

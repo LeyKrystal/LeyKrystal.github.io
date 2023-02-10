@@ -11,29 +11,3 @@
     background-size: cover;
     background-position: center;
 }
-nav{
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-    padding-top: 45px;
-    padding-left: 8%;
-    padding-right: 8%;
-}
-.logo{
-    color: white;
-    font-size: 35px;
-    letter-spacing: 1px;
-    cursor: pointer;
-}
-span{
-    color: #738041;
-}
-nav ul li{
-    list-style-type: none;
-    display: inline-block;
-    padding: 10px  25px;
-}
-nav ul li a{
-    color: white;
-    text-decoration: none;
-}

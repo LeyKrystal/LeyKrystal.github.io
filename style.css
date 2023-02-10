@@ -77,4 +77,8 @@ h4{
     letter-spacing: 2px;
     font-size: 20px;
 }
-
+.newlatter form{
+    width: 380px;
+    max-width: 100%;
+    position: relative;
+}

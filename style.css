@@ -97,3 +97,9 @@ h4{
     align-items: center;
     justify-content: space-around;
 }
+.about-text h2{
+    color: white;
+    font-size: 75px;
+    text-transform: capitalize;
+    margin-bottom: 20px;
+}

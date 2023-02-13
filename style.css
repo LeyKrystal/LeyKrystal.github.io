@@ -82,31 +82,3 @@ h4{
     padding: 100px 0px;
     background-color: #2a5b5c;
 }
-.about img{
-    height: auto;
-    width: 550px;
-}
-.about-text{
-    width: 550px;
-}
-.main{
-    width: 1130px;
-    max-width: 95%;
-    margin: 0 auto;
-    display: flex;
-    align-items: center;
-    justify-content: space-around;
-}
-.about-text h2{
-    color: white;
-    font-size: 75px;
-    text-transform: capitalize;
-    margin-bottom: 20px;
-}
-.about-text h5{
-    color: white;
-    letter-spacing: 2px;
-    font-size: 22px;
-    margin-bottom: 25px;
-    text-transform: capitalize;
-}

@@ -104,9 +104,16 @@ h4{
     margin-bottom: 20px;
 }
 .about-text h5{
-    color: white;
+    color: #d98621;
     letter-spacing: 2px;
     font-size: 22px;
     margin-bottom: 25px;
     text-transform: capitalize;
+}
+.about-text p{
+    color: aqua;
+    letter-spacing: 1px;
+    line-height: 28px;
+    font-size: 18px;
+    margin-bottom: 45px;
 }
